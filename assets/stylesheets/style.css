@@ -56,16 +56,16 @@ div.issue_badge_content .metadata {
 .badge {
     display: inline-block;
     min-width: 10px;
-    padding: 2px 3px 3px 3px;
-    font-size: 0.6em;
-    /* font-weight: 700; */
+    padding: 3px 4px 4px 4px;
+    font-size: 1em;
+    font-weight: 700;
     color: #fff;
     line-height: 1;
     vertical-align: middle;
     white-space: nowrap;
     text-align: center;
     background-color: red;
-    border-radius: 7px;
+    border-radius: 3px;
     position: relative;
     /* font-weight: normal; */
 }
